@@ -1,0 +1,13 @@
+D:\UniversityStuff\OOP\Laba7_8\bin\Debug\Laba7_8.exe.config
+D:\UniversityStuff\OOP\Laba7_8\bin\Debug\Laba7_8.exe
+D:\UniversityStuff\OOP\Laba7_8\bin\Debug\Laba7_8.pdb
+D:\UniversityStuff\OOP\Laba7_8\bin\Debug\System.Data.SQLite.dll
+D:\UniversityStuff\OOP\Laba7_8\bin\Debug\System.Data.SQLite.xml
+D:\UniversityStuff\OOP\Laba7_8\obj\Debug\Laba7_8.csprojAssemblyReference.cache
+D:\UniversityStuff\OOP\Laba7_8\obj\Debug\Laba7_8.Form1.resources
+D:\UniversityStuff\OOP\Laba7_8\obj\Debug\Laba7_8.Properties.Resources.resources
+D:\UniversityStuff\OOP\Laba7_8\obj\Debug\Laba7_8.csproj.GenerateResource.cache
+D:\UniversityStuff\OOP\Laba7_8\obj\Debug\Laba7_8.csproj.CoreCompileInputs.cache
+D:\UniversityStuff\OOP\Laba7_8\obj\Debug\Laba7_8.csproj.CopyComplete
+D:\UniversityStuff\OOP\Laba7_8\obj\Debug\Laba7_8.exe
+D:\UniversityStuff\OOP\Laba7_8\obj\Debug\Laba7_8.pdb
